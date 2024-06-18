@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/lar400th0ad24t89?svg=true)](https://ci.appveyor.com/project/Demidovant/ahj-forms)
+[![Build status](https://ci.appveyor.com/api/projects/status/lar400th0ad24t89?svg=true)](https://ci.appveyor.com/project/Demidovant/ahj-forms) https://github.com/Demidovant/ahj-forms/actions/workflows/WORKFLOW-FILE/badge.svg
 
 # Домашнее задание к занятию "Работа с HTML-формами"
 
